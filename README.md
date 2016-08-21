@@ -3,7 +3,7 @@
 
 #Installation
 
-##Using `pip`
+##Using pip
 
 `pip install YoutubetoMp3`
 
@@ -16,7 +16,7 @@
 * Beautifulsoup - `pip install beautifulsoup4`
 
 ##How to run
-`YoutubetoMp3 URL [path] [filename]
+`YoutubetoMp3 URL [path] [filename]`
 * There is one required argument URL which is the URL of the youtube video
 * Second argument is path where the file has to be downloaded, it is optional and default is /home/Music
 * Third argument is name of the file, it is optional and default is name of the video
